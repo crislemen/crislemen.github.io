@@ -1,0 +1,19 @@
+{
+  "experience": [
+    {
+      "id": 0,
+      "link": "https://www.8secondz.com/",
+      "company": "Bosonit",
+      "title": "Front-end developer",
+      "dateFrom": "November 2022",
+      "dateTo": "Actually",
+      "info": [
+        "Front end developer bases in web applications"
+      ],
+      "stack": ["React.js", "Angular.js", "Node.js", "Java"],
+      "logoheight": 20,
+      "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
+      "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+    }
+  ]
+}
