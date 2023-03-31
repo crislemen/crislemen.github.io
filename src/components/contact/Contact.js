@@ -5,7 +5,7 @@ import { Bounce } from 'react-reveal'
 import ContactForm from '../contactForm/ContactForm'
 import linkedin from '../../images/social/linkedin.png'
 import github from '../../images/social/github.png'
-import instagram from '../../images/social/instagram.png'
+import instagram from '../../images/social/icons-instagram.svg'
 
 const Contact = () => {
   return (
@@ -33,7 +33,7 @@ const Contact = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img src={instagram} alt="Instagram Logo" width="60px" />
+            <img className='StyleIntagram' src={instagram} alt="Instagram Logo" width="60px" />
           </a>
         </div>
       </Bounce>
