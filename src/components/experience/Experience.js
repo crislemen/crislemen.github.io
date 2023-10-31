@@ -33,7 +33,7 @@ const Experience = () => {
                 rel="noopener noreferrer"
                 style={{
                   textDecoration: 'none',
-                  color: '#0be779',
+                  color: 'purple',
                   cursor: 'pointer',
                 }}
               >

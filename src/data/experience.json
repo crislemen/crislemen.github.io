@@ -14,6 +14,21 @@
       "logoheight": 20,
       "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
       "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
+    },
+    {
+      "id": 1,
+      "link": "https://elliotcloud.com/",
+      "company": "ElliotCloud",
+      "title": "Front-end developer",
+      "dateFrom": "March 2023",
+      "dateTo": "November 2023",
+      "info": [
+        "Front end developer bases in web applications"
+      ],
+      "stack": ["React.js", "Angular.js", "Node.js", "TypeScript"],
+      "logoheight": 20,
+      "colourPrimary": "linear-gradient(to bottom, #3CB371, #ffffff)",
+      "colourSecondary": "linear-gradient(to bottom, #3CB371, #ffffff)"
     }
   ]
 }

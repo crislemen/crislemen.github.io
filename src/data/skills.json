@@ -13,18 +13,18 @@
     {
       "id": 2,
       "skillName": "Javascript",
+      "amount": "90"
+    },
+    {
+      "id": 3,
+      "skillName": "Angular.js",
       "amount": "80"
     },
-    { "id": 3, "skillName": "PHP", "amount": "70" },
-    {
-      "id": 4,
-      "skillName": "React.js",
-      "amount": "60"
-    },
+    { "id": 4, "skillName": "PHP", "amount": "70" },
     {
       "id": 5,
-      "skillName": "Angular.js",
-      "amount": "40"
+      "skillName": "React.js",
+      "amount": "60"
     },
     { "id": 6, "skillName": "Laravel", "amount": "20" }
   ]

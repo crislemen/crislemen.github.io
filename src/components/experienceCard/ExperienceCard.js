@@ -3,6 +3,7 @@ import './ExperienceCard.css'
 
 const ExperienceCard = ({ experience }) => {
   let { link, company, title, dateFrom, dateTo, info, stack } = experience
+  console.log(experience)
   return (
     <a
       className="experience-link"
