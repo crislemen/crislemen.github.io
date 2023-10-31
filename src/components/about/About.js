@@ -55,18 +55,7 @@ const About = () => {
             </div>
             <p>
               Since 2020 - I've spent my time seeking and learning new
-              technologies and forms of digital expression.Now im working at {' '}
-              <Link
-                className="textLink"
-                to="experience"
-                spy={true}
-                smooth={true}
-                duration={500}
-              >
-                Bosonit
-              </Link>
-              , and worked with some great people.
-            </p>
+              technologies and forms of digital expression.</p>
             <div className="location-wrapper">
               <svg
                 className="octicon octicon-location"
