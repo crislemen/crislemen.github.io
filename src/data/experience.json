@@ -29,6 +29,21 @@
       "logoheight": 20,
       "colourPrimary": "linear-gradient(to bottom, #3CB371, #ffffff)",
       "colourSecondary": "linear-gradient(to bottom, #3CB371, #ffffff)"
+    },
+    {
+      "id": 1,
+      "link": "https://elliotcloud.com/",
+      "company": "Cucunver",
+      "title": "Full-Stack Developer",
+      "dateFrom": "January 2024",
+      "dateTo": "Actually",
+      "info": [
+        "Full Stack developer on a web based on laravel,node and nginx server"
+      ],
+      "stack": ["PHP", "Laravel", "Bootstrap", "Nginx"],
+      "logoheight": 20,
+      "colourPrimary": "linear-gradient(to bottom, #008f39, #ffffff)",
+      "colourSecondary": "linear-gradient(to bottom, #3CB371, #ffffff)"
     }
   ]
 }
